@@ -1,0 +1,10 @@
+C:\Users\botez\source\repos\DABOAN\DABOAN\bin\Debug\DABOAN.exe.config
+C:\Users\botez\source\repos\DABOAN\DABOAN\bin\Debug\DABOAN.exe
+C:\Users\botez\source\repos\DABOAN\DABOAN\bin\Debug\DABOAN.pdb
+C:\Users\botez\source\repos\DABOAN\DABOAN\obj\Debug\DABOAN.csproj.AssemblyReference.cache
+C:\Users\botez\source\repos\DABOAN\DABOAN\obj\Debug\DABOAN.Form1.resources
+C:\Users\botez\source\repos\DABOAN\DABOAN\obj\Debug\DABOAN.Properties.Resources.resources
+C:\Users\botez\source\repos\DABOAN\DABOAN\obj\Debug\DABOAN.csproj.GenerateResource.cache
+C:\Users\botez\source\repos\DABOAN\DABOAN\obj\Debug\DABOAN.csproj.CoreCompileInputs.cache
+C:\Users\botez\source\repos\DABOAN\DABOAN\obj\Debug\DABOAN.exe
+C:\Users\botez\source\repos\DABOAN\DABOAN\obj\Debug\DABOAN.pdb
